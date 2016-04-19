@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jUnG3
- * Date: 4/19/16
- * Time: 9:10 PM
- */
 
 namespace File;
 
@@ -35,5 +29,13 @@ class File extends \SplFileObject
     private function setFile(\SplFileObject $file)
     {
         $this->file = $file;
+    }
+
+    /**
+     * @return \SplFileObject
+     */
+    public function getFile()
+    {
+        return $this->file;
     }
 }
