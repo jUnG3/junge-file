@@ -1,5 +1,6 @@
 {
   "name" : "junge/file",
+  "type": "library",
   "description": "PHP file library",
   "keywords": ["file","handling"],
   "homepage": "https://github.com/jUnG3/junge-file",
