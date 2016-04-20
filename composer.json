@@ -4,7 +4,7 @@
   "description": "PHP file library",
   "keywords": ["file","handling"],
   "homepage": "https://github.com/jUnG3/junge-file",
-  "minimum-stability": "master",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
